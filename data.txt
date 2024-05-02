@@ -1,0 +1,3 @@
+$chrome.exe$1044$Running$marius.bancila#25180$32-bit
+$explorer.exe$7108$Running$marius.bancila#29529$64-bit
+$skype.exe$22456$Suspended$marius.bancila#656$64-bit
